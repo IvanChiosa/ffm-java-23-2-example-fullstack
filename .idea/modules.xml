@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ffm-java-23-2-example-fullstack.iml" filepath="$PROJECT_DIR$/ffm-java-23-2-example-fullstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend.iml" filepath="$PROJECT_DIR$/frontend.iml" />
     </modules>
   </component>
 </project>
